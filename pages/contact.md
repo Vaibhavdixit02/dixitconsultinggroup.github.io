@@ -6,4 +6,4 @@ subheadline: this is changed
 teaser: 'Get in touch with KD '
 permalink: /contact/
 ---
-Contact Kriti Bansal KBD
+Contact Kriti Bansal KBD..EDITED WITH VISUAL EDITOR
