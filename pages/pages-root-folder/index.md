@@ -18,16 +18,14 @@ widget2:
     src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg"
     width="302" height="182" alt=""/></a>
 widget3:
-  title: Download Theme
+  title: PRICING
   url: https://github.com/Phlow/feeling-responsive
   image: widget-github-303x182.jpg
   text: >-
-    <em>Feeling Responsive</em> is free and licensed under a MIT License. Make
-    it your own and start building. The code is well-documented and explains you
-    how it works.
+    WRITE ABOUT PRICING
 callforaction:
   url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  text: WHAT WE OFFER›
   style: alert
 permalink: /index.html
 homepage: true
