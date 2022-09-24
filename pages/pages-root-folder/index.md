@@ -5,7 +5,7 @@ header:
 widget1:
   title: Supply Chain Management
   url: http://phlow.github.io/feeling-responsive/blog/
-  image: /uploads/bg.jpg
+  image: /images/bg.jpg
   text: Lets reduce cost and optimize supply chain
 widget2:
   title: About DCG
