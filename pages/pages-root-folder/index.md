@@ -4,12 +4,12 @@ header:
   image_fullwidth: DCG
 widget1:
   title: Supply Chain Management
-  url: http://phlow.github.io/feeling-responsive/blog/
+  url: https://dixitconsultinggroup.github.io/blog/
   image: /images/bg.jpg
   text: Lets reduce cost and optimize supply chain
 widget2:
   title: About DCG
-  url: http://phlow.github.io/feeling-responsive/info/
+  url: https://dixitconsultinggroup.github.io/info/
   text: >-
     <em>DCG</em> is a new generation consulting group with --- as its main
     ingredient.
@@ -19,7 +19,7 @@ widget2:
     width="302" height="182" alt=""/></a>
 widget3:
   title: Pricing
-  url: https://github.com/Phlow/feeling-responsive
+  url: https://dixitconsultinggroup.github.io
   image: /uploads/products-3.jpg
   text: '<em>DCG</em> works with pricing analyst. '
 callforaction:
