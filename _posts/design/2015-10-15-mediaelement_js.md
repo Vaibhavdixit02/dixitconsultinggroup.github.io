@@ -34,6 +34,7 @@ To use the player just use some HTML5-magic like…
 {% highlight html %}
 <audio src="http://path-to-file.com/music.mp3" type="audio/mp3" controls="controls"></audio>
 {: .+.'}
+{: .+.'}
 {% endhighlight %}
 
 All possible functions and how to use *mediaelement.js* is well-documented on the [players website](http://mediaelementjs.com/).
