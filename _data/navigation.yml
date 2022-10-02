@@ -1,5 +1,5 @@
 - title: Solutions
-  url: https://dixitconsultinggroup.github.io/solutions/
+  url: /solutions/
   side: left
 - title: About Us
   url: https://dixitconsultinggroup.github.io/getting-started/
@@ -29,7 +29,7 @@
     - title: Portfolio
       url: /design/portfolio/
 - title: Products
-  url: https://dixitconsultinggroup.github.io/Products/
+  url: /Products/
   side: left
   dropdown:
     - title: Scheduling problems
