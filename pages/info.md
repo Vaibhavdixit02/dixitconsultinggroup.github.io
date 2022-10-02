@@ -1,61 +1,67 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
-permalink: "/info/"
+title: About
+subheadline: Why another Jekyll Theme?
+teaser: >-
+    Since years I am programming and designing websites. I love to work with
+    open source tools and learn via code from others. This time I want to try to
+    give something back...
+permalink: /Scheduling-problems//
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: header_drop.jpg
 ---
-...and learn at the same time.
+Taylor is a restaurant manager. She loves her job. She loves the buzz of a busy service. She loves seeing her team excel. And most of all, she loves seeing her customers smile when they’ve had a great experience.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+What Taylor doesn't like is headaches. Especially headaches caused by staff scheduling problems.
 
+She doesn’t like the spreadsheets constantly being changed, she doesn’t like the phone calls she gets when one of her team members wants to trade shifts, and she doesn’t like the admin that comes with it or comes with managing vacations.
 
-## Features
+Creating&nbsp;[a functional, flexible and fair schedule that keeps everyone happy](https://www.quinyx.com/product/scheduling)&nbsp;is a full time job in itself. It can take days, and sometimes weeks, to develop a good schedule. When a scheduling error is made, or a last minute change comes into play, Taylor is forced to return to the drawing board and frantically try to find cover for a shift.
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+Taylor knows there must be a better way. And she’s right.
 
+The solution to most scheduling problems can be found in modern, AI-driven[&nbsp;workforce management software.](https://www.quinyx.com/product)
 
+If she had access to something similar, Taylor could create great schedules, easier reach budget, and maximize employee and customer experience.
 
-## I got inspired by...
+If the solution included a clever app, her employees would also have complete control of the schedules. They could see their shifts as soon as they are published and easily switch them if they needed to - which all would improve the engagement and productivity.
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+Great news, huh? What Taylor and you, might not know is that a AI-driven workforce management tool also can help solve these problems:
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+#### **1\. Staff turnover**
 
-#### Since then, fork it!
+Employees will come and go. When a new employee starts, that person will also bring a list of days when they can and cannot work. Some workers like day shifts, others night shifts. Some prefer weekend shifts, while others prefer weekdays.
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+[With nearly 40% of deskless workers saying they’d rather have a flexible schedule than a pay rise, and 30% saying they’ve left a job because of a lack of notice in scheduling changes](https://www.quinyx.com/blog/state-of-the-deskless-workforce-2021-key-findings-where-to-take-action), better scheduling practices can give employee retention a huge boost.&nbsp;
 
+#### **2\. Make scheduling accessible**
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+[More than half of employees still have to call their manager to change shifts, and 44% don’t have access to an app to swap shifts with colleagues.](https://www.quinyx.com/deskless-workforce)&nbsp;By making the schedule accessible, your managers can update and create schedules, handle absences (anywhere, anytime\!), and your employees can easily claim open shifts, switch shifts, and update their availability.
+
+#### **3\. Staying compliant**
+
+The rules and regulations regarding labor laws are constantly changing, and differ across countries. With modern workforce management solutions, you can skip the headaches and make sure you stay compliant. Add your specific rules and labor laws to your WFM system, and you will automatically stay compliant.
+
+#### **4\. Demand forecasting**
+
+[Demand forecasting is key to a good schedule.](https://www.quinyx.com/workforce-management/demand-forecasting)&nbsp;Here’s an example:&nbsp;
+
+In food delivery logistics, it’s important to accurately say what you expect in terms of orders received, where they come from, what size they are, and where they are going will enable you to create a much smarter and effective schedule. With the help of&nbsp;[AI in your WFM tool](https://www.quinyx.com/blog/5-ways-ai-will-shape-the-future-of-wfm), you can leverage recent actuals to see what’s going to happen next and then schedule for this demand accordingly.
+
+Poor forecasting can also lead to understaffing, which 83% of employees say makes work more stressful and impacts their wellbeing.
+
+#### **5\. Business optimization**
+
+Typically, the businesses we work with want to optimize in three key areas - happiness, performance and cost.&nbsp;&nbsp;
+
+[You can choose where you want to optimize and choose what areas to focus on in direct relation to your KPIs.&nbsp;](https://www.quinyx.com/blog/business-optimization)What you can’t do (yet) is optimize for all areas, all the time. Although we would argue that when optimizing your schedules for employee happiness, you’ll in effect also be optimizing for performance and cost.
+
+Too often, employee happiness is viewed as a ‘nice to have’ rather than a necessity. We’d argue this couldn’t be further from the truth.&nbsp; Sure, you can optimize for costs but let’s say, in doing so, your schedules aren’t fair on employees, fail to consider a work life balance, are frequently changed at the last minute, and ignore working time directives.
+
+Scheduling in this way is a sure-fire way to crush staff morale - and 60% of employees say their personal care suffers due to their work schedule. As a result, not only does happiness and employee engagement plummet, performance suffers too.&nbsp;
+
+If we flip this around, and you optimize for employee happiness, all of a sudden you’re in a position to reap the benefits happy employees bring.
+
+&nbsp;
+
+*Solving these most common scheduling problems - which ring true across all industries - will give a happier workforce and a more successful business.*
