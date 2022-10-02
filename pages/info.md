@@ -5,7 +5,7 @@ subheadline: 'Taylor is a restaurant manager. '
 teaser: >-
     What Taylor doesn't like is headaches. Especially headaches caused by staff
     scheduling problems.
-permalink: https://dixitconsultinggroup.github.io/Products/Scheduling-problems
+permalink: https://dixitconsultinggroup.github.io/Products/Scheduling-problems/
 header:
     image_fullwidth: header_drop.jpg
 ---
