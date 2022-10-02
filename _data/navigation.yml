@@ -29,11 +29,11 @@
     - title: Portfolio
       url: /design/portfolio/
 - title: Products
-  url: /headers/
+  url: /Products/
   side: left
   dropdown:
-    - title: Header with Full-Width-Image
-      url: /design/header-full-width-image/
+    - title: Scheduling problems
+      url: /Scheduling-problems/
     - title: Header with Image and Pattern
       url: /design/header-image-pattern/
     - title: Header with image and color
