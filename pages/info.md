@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About
-subheadline: Why another Jekyll Theme?
+title: Scheduling-problems
+subheadline: 'Taylor is a restaurant manager. '
 teaser: >-
-    Since years I am programming and designing websites. I love to work with
-    open source tools and learn via code from others. This time I want to try to
-    give something back...
-permalink: /Scheduling-problems//
+    What Taylor doesn't like is headaches. Especially headaches caused by staff
+    scheduling problems.
+permalink: /Scheduling-problems/
 header:
     image_fullwidth: header_drop.jpg
 ---
