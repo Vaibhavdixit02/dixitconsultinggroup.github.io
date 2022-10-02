@@ -33,7 +33,7 @@
   side: left
   dropdown:
     - title: Scheduling problems
-      url: /Scheduling-problems/
+      url: /Products/mediaelement_js
     - title: Header with Image and Pattern
       url: /design/header-image-pattern/
     - title: Header with image and color
