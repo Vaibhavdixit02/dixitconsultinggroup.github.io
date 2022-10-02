@@ -29,11 +29,11 @@
     - title: Portfolio
       url: /design/portfolio/
 - title: Products
-  url: /Products/
+  url: https://dixitconsultinggroup.github.io/Products/
   side: left
   dropdown:
     - title: Scheduling problems
-      url: /Scheduling-problems/
+      url: https://dixitconsultinggroup.github.io/Products/Scheduling-problems/
     - title: Header with Image and Pattern
       url: /design/header-image-pattern/
     - title: Header with image and color
