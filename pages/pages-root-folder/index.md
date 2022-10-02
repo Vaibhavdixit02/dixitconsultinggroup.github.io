@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  image_fullwidth: DCG
+  image_fullwidth: DCG - Dixit Consulting Group
 widget1:
   title: Supply Chain Management
   url: https://dixitconsultinggroup.github.io/blog/
