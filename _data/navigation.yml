@@ -5,10 +5,10 @@
   url: https://dixitconsultinggroup.github.io/getting-started/
   side: left
 - title: Resources
-  url: /design/
+  url: https://dixitconsultinggroup.github.io/resources/
   side: left
   dropdown:
-    - title: Grid & Colors
+    - title: Management Consulting
       url: /design/grid/
     - title: Typography
       url: /design/typography/typography/
