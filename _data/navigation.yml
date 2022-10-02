@@ -1,10 +1,10 @@
 - title: Solutions
   url: https://dixitconsultinggroup.github.io/solutions/
   side: left
-- title: Getting Started
+- title: About Us
   url: https://dixitconsultinggroup.github.io/getting-started/
   side: left
-- title: Templates
+- title: Resources
   url: /design/
   side: left
   dropdown:
@@ -28,7 +28,7 @@
       url: /design/gallery/
     - title: Portfolio
       url: /design/portfolio/
-- title: Header Styles
+- title: Products
   url: /headers/
   side: left
   dropdown:
@@ -46,14 +46,6 @@
       url: /design/no-header/
     - title: No Header but Image
       url: /design/no-header-but-image/
-- title: Documentation
-  url: /documentation/
-  side: left
-  dropdown:
-    - title: Changelog
-      url: /changelog/
-    - title: Roadmap
-      url: /roadmap/
 - title: Blog
   url: /blog/
   side: left
